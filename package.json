@@ -1,0 +1,18 @@
+{
+  "name": "shoppingcart",
+  "private": true,
+  "version": "0.0.0",
+  "description": "shoppingcart",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "angular-loader": "^1.7.5",
+    "angular-route": "^1.7.5"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "start": "http-server -a localhost -p 8000 -c-1 ./app"
+  }
+}
