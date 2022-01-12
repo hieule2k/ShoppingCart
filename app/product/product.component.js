@@ -1,10 +1,12 @@
 angular.module("product").component("product", {
   templateUrl: "product/product.html",
   controller: [
-    "#http",
+    "$http",
     function productController($http) {
       var self = this;
-      $http.get("/app/product.json").then(function (response) {});
+      $http.get("/angularApp/app/product.json").then(function (response) {
+        self.products = response.data;
+      });
     },
   ],
 });
