@@ -23,7 +23,7 @@
     <div class="product-container">
 
         <div ng-repeat="product in $ctrl.products | filter:$ctrl.query | orderBy:$ctrl.order" class="product">
-            <a href="#!/cart">
+            <a href="#!/cart/{{product.id}}">
                 <img ng-src="{{product.imageUrl}}" alt="{{product.name}}" class="img-product">
                 <img ng-src="{{product.imageUrlAlt}}" class="img-hover">
                 <div>{{product.name}}</div>

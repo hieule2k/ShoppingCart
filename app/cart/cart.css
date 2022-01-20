@@ -1,0 +1,39 @@
+.content-wrapper {
+  display: flex;
+}
+
+.product-wrapper {
+  position: relative;
+  display: flex;
+  width: 70%;
+  height: 700px;
+  align-items: center;
+}
+
+.gallery-section {
+  width: 100%;
+}
+
+.sidebar-wrapper {
+  width: 30%;
+}
+
+img {
+  display: block;
+
+  width: 50%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  height: 50px;
+}
+
+.alternative-image {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  right: 50%;
+}

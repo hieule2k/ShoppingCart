@@ -5,7 +5,7 @@ angular.module("myApp").config([
       .when("/product", {
         template: "<product></product>",
       })
-      .when("/cart", {
+      .when("/cart/:productId", {
         template: "<cart></cart>",
       })
       .otherwise("/product");
