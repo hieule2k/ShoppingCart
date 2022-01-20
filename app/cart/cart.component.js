@@ -7,7 +7,7 @@ angular.module("cart").component("cart", {
       var self = this;
 
       $http
-        .get("/angularApp/app/shoes/" + $routeParams.productId + ".json")
+        .get("./shoes/" + $routeParams.productId + ".json")
         .then(function (response) {
           self.cart = response.data;
         });

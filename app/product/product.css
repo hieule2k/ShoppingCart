@@ -22,12 +22,6 @@ img {
   gap: 5px;
 }
 
-/* .product-container::after {
-  content: "";
-  display: block;
-  clear: both;
-} */
-
 .product {
   position: relative;
 }
