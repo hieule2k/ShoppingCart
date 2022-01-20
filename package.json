@@ -1,5 +1,5 @@
 {
-  "name": "shoppingcart",
+  "name": "angularApp",
   "private": true,
   "version": "0.0.0",
   "description": "shoppingcart",
@@ -13,6 +13,6 @@
     "http-server": "^0.11.1"
   },
   "scripts": {
-    "start": "http-server -a localhost -p 8000 -c-1 ./angularApp"
+    "start": "http-server -a localhost -p 8000 -c-1 ./app"
   }
 }
