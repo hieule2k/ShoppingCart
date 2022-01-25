@@ -1,5 +1,30 @@
 {
     "id": "Nike-Air-Force-1-'07'",
+    "name": "Nike Air Force 1 '07",
+    "currency": "5.000.000",
+    "sizes": [
+        "5 UK",
+        "5,5 UK",
+        "6 UK",
+        "6.5 UK",
+        "7 UK",
+        "7.5 UK",
+        "8 UK",
+        "8.5 UK",
+        "9 UK"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
     "images": [
         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4f37fca8-6bce-43e7-ad07-f57ae3c13142/air-force-1-07-shoe-WrLlWX.png",
         "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/c9e622c0-f478-4ffb-8def-fc11280e45bf/air-force-1-07-shoe-WrLlWX.png",

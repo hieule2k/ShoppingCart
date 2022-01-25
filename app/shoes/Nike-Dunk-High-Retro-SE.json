@@ -1,0 +1,36 @@
+{
+    "id": "Nike-Dunk-High-Retro-SE",
+    "name": "Nike Dunk High Retro SE",
+    "currency": "6.000.000",
+    "sizes": [
+        "5 UK",
+        "5,5 UK",
+        "6 UK",
+        "6.5 UK",
+        "7 UK",
+        "7.5 UK",
+        "8 UK",
+        "8.5 UK",
+        "9 UK"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f9a8deaa-87f2-4191-92b8-c7661aae48de/air-monarch-iv-training-shoe-cc3XbD.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/05c4d7ab-961f-4047-9557-ad19db51b6f6/air-monarch-iv-training-shoe-cc3XbD.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/3d9f59cf-cf57-4d60-8873-51889795f70e/air-monarch-iv-training-shoe-cc3XbD.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/2013aa36-3cf6-46a0-ad9a-cd5ff7927a11/air-monarch-iv-training-shoe-cc3XbD.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a3ce45dc-21a3-4b34-ad29-cc09ec142136/air-monarch-iv-training-shoe-cc3XbD.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/bc3d0920-1f5a-4d02-8c6e-95139818f5b7/air-monarch-iv-training-shoe-cc3XbD.png"
+    ]
+}

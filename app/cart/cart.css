@@ -1,3 +1,57 @@
+.header {
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.header-top {
+  padding: 0 40px;
+  height: 48px;
+  line-height: 48px;
+  margin-left: 100px;
+}
+
+.header-top-navbar {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-top-navbar a {
+  padding: 0 10px;
+  color: #000;
+}
+
+.header-bottom {
+  position: relative;
+  height: 48px;
+  line-height: 48px;
+}
+
+.header-bottom a {
+  color: #000;
+  font-weight: 550;
+}
+
+.header-logo {
+  position: absolute;
+  top: 20px;
+  left: 50px;
+  width: 80px;
+  height: 60px;
+}
+
+.header-logo img {
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main-menu a {
+  margin-right: 40px;
+}
+
 .content-wrapper {
   display: flex;
 }
@@ -6,8 +60,33 @@
   position: relative;
   display: flex;
   width: 70%;
-  height: 700px;
+  height: 600px;
   align-items: center;
+  border-right: 1px solid #333;
+}
+
+.next-image,
+.previous-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 50px;
+  margin: 0 30px 0 30px;
+}
+
+.next-image:hover,
+.previous-image:hover {
+  cursor: pointer;
+}
+
+button i {
+}
+
+.sizes button:hover {
+  color: #fff;
+  background-color: #000;
+  cursor: pointer;
 }
 
 .gallery-section {
@@ -18,9 +97,8 @@
   width: 30%;
 }
 
-img {
+.view-img {
   display: block;
-
   width: 50%;
   height: 50%;
   margin-left: auto;
@@ -28,12 +106,63 @@ img {
 }
 
 button {
-  height: 50px;
+  height: 20px;
+  margin: 0 5px 0 5px;
 }
 
 .alternative-image {
   position: absolute;
-  bottom: 30px;
-  left: 50%;
-  right: 50%;
+  bottom: 110px;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-content: space-around;
+  justify-content: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.alternative-image button {
+  position: relative;
+  height: 23px;
+  width: 24px;
+  cursor: pointer;
+}
+
+.view-alternative-img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.button-size {
+  height: 40px;
+  border: 1px solid #e9ecef;
+  margin: 0;
+}
+
+.button-size span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sizes {
+  display: grid;
+  grid-template-columns: repeat(3, calc(100% / 3));
+}
+
+.alpha {
+  color: #fff !important;
+  background-color: #000 !important;
+}
+
+.cart-icon-container {
+  position: absolute;
+  top: 0;
+  right: 55px;
 }

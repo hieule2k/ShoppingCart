@@ -3,13 +3,25 @@ angular.module("cart").component("cart", {
   controller: [
     "$http",
     "$routeParams",
-    function cartController($http, $routeParams) {
+    "$scope",
+    function cartController($http, $routeParams, $scope) {
       var self = this;
+
+      self.setImage = function (image) {
+        self.mainImage = image;
+      };
+
+      $scope.clickOn = function () {
+        $scope.alpha = true;
+      };
+
+      // scope.alpha = true;$
 
       $http
         .get("./shoes/" + $routeParams.productId + ".json")
         .then(function (response) {
           self.cart = response.data;
+          self.setImage(self.cart.images[0]);
         });
     },
   ],

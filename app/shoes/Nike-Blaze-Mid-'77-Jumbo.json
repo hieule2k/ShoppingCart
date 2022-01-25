@@ -1,0 +1,36 @@
+{
+    "id": "Nike-Blaze-Mid-'77-Jumbo",
+    "name": "Nike Blaze Mid '77 Jumbo",
+    "currency": "9.000.000",
+    "sizes": [
+        "5 UK",
+        "5,5 UK",
+        "6 UK",
+        "6.5 UK",
+        "7 UK",
+        "7.5 UK",
+        "8 UK",
+        "8.5 UK",
+        "9 UK"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1d5a475d-d08b-4d51-8171-61e9d0761a16/blazer-mid-77-jumbo-shoes-kWXfC7.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/069b3fdc-7d17-484b-9e3f-269c481187d4/blazer-mid-77-jumbo-shoes-kWXfC7.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/2978c2e1-88dd-469c-b752-02b95ccabcc1/blazer-mid-77-jumbo-shoes-kWXfC7.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/1c9b2318-46dc-4caf-8e5d-a219700d0bf8/blazer-mid-77-jumbo-shoes-kWXfC7.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/cbd90325-8ab0-45f7-b62f-4f098fbe2304/blazer-mid-77-jumbo-shoes-kWXfC7.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f3c43145-cf98-436c-b227-56a762d092d6/blazer-mid-77-jumbo-shoes-kWXfC7.png"
+    ]
+}

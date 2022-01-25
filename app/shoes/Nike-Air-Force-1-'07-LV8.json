@@ -1,0 +1,36 @@
+{
+    "id": "Nike-Air-Force-1-'07-LV8",
+    "name": "Nike Air Force 1 '07 LV8",
+    "currency": "5.500.000",
+    "sizes": [
+        "5 UK",
+        "5,5 UK",
+        "6 UK",
+        "6.5 UK",
+        "7 UK",
+        "7.5 UK",
+        "8 UK",
+        "8.5 UK",
+        "9 UK"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c106f8e4-dc21-4be6-b67c-9be1154d5ac0/air-force-1-07-lv8-shoe-dGlKF3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/49d599c5-a583-4e69-b8eb-989f6e96979d/air-force-1-07-lv8-shoe-dGlKF3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/9fb416be-ecd8-4d3f-991e-5465fa1d04cb/air-force-1-07-lv8-shoe-dGlKF3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/639b5496-fc3c-4c90-999d-c1b91e055afd/air-force-1-07-lv8-shoe-dGlKF3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/26278157-94d5-4fd7-8c4f-78553449f14e/air-force-1-07-lv8-shoe-dGlKF3.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/40faa321-24ca-4f24-ba07-012d02a5f2c6/air-force-1-07-lv8-shoe-dGlKF3.png"
+    ]
+}
