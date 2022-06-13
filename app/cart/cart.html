@@ -2,6 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <link rel="stylesheet" href="./cart/cart.css">
 </head>
 
@@ -14,14 +15,20 @@
         </div>
         <div class="header-bottom">
             <div class="main-menu" style="text-align: center;">
-                <a href="" ng-repeat="menu in $ctrl.cart.mainMenu">{{menu}}</a>
+                <a href="#" ng-repeat="menu in $ctrl.cart.mainMenu">{{menu}}</a>
             </div>
             <div class="cart-icon-container">
-                <a href=""><i class="fas fa-shopping-cart"></i></a>
+                <div class="cart-icon-dropdown" ng-if="order.totalProducts ==0">
+                    <span>your cart is empty</span>
+                </div>
+                <div ng-if="order.totalProducts !=0" class="dot-container">
+                    <div class="dot">{{order.totalProducts}}</div>
+                </div>
+                <a href="#!/shoppingBag"><i class="fas fa-shopping-cart"></i></a>
             </div>
         </div>
         <div class="header-logo">
-            <a href=""><img
+            <a href="#"><img
                     src="data:image/jpeg;base64,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">
             </a>
         </div>
@@ -49,21 +56,23 @@
                     <span>Men Running</span>
                 </div>
                 <h1 class="product-name">
-                    <span>{{$ctrl.cart.name}}</span>
+                    <span>{{$ctrl.cart.information.name}}</span>
                 </h1>
-                <div class="product-price">{{$ctrl.cart.currency}} đ</div>
+                <div class="product-price">{{$ctrl.cart.information.currency}} đ</div>
             </div>
             <section class="buy-section">
                 <div class="size-selector">
-                    <div class="heading-container">Size</div>
-                    <div class="sizes">
-                        <button ng-repeat="size in $ctrl.cart.sizes" class="button-size" ng-class="{alpha: alpha}"
-                            ng-click="clickOn()">
-                            <span>{{size}}</span>
+                    <!-- <div class="heading-container">Size</div> -->
+                    <!-- <div class="sizes">
+                        <button ng-repeat="size in $ctrl.cart.sizes track by $index" class="button-size"
+                            ng-class="status==true ? 'active':'deactive'" ng-click="clickOn()">
+                            <span>{{size}} UK</span>
                         </button>
-                    </div>
+
+                    </div> -->
                     <div class=" add-to-cart">
-                        <button title="Add to cart"><span>Add to cart</span></button>
+                        <button type="button" title="Add to cart" ng-click="addCart(product)"><span>Add to
+                                cart</span></button>
                     </div>
                 </div>
             </section>

@@ -8,3 +8,7 @@ div.ng-enter.ng-enter-active {
   opacity: 1;
   transform: translateY(0);
 }
+
+.ng-scope {
+  margin: 0 10px 10px 10px;
+}

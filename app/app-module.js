@@ -1,4 +1,10 @@
 "use strict";
 
 // Declare app level module which depends on views, and core components
-angular.module("myApp", ["ngRoute", "ngAnimate", "cart", "product"]);
+var myApp = angular.module("myApp", [
+  "ngRoute",
+  "ngAnimate",
+  "cart",
+  "product",
+  "bag",
+]);

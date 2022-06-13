@@ -1,17 +1,20 @@
 {
-    "id": "Nike-Blaze-Mid-'77-Jumbo",
-    "name": "Nike Blaze Mid '77 Jumbo",
-    "currency": "9.000.000",
+    "information": {
+        "id": "Nike-Blaze-Mid-'77-Jumbo",
+        "name": "Nike Blaze Mid '77 Jumbo",
+        "currency": 200,
+        "orderQuantity": 1
+    },
     "sizes": [
-        "5 UK",
-        "5,5 UK",
-        "6 UK",
-        "6.5 UK",
-        "7 UK",
-        "7.5 UK",
-        "8 UK",
-        "8.5 UK",
-        "9 UK"
+        "5",
+        "5.5",
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9"
     ],
     "headerTopNavbar": [
         "help",

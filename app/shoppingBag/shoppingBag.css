@@ -1,0 +1,39 @@
+table{
+    width: 100%;
+    text-align: left;
+}
+img {
+    width: 20%;
+    height: 20%;
+}
+
+#bag-container{
+    display: flex;
+}
+
+.cart-container{
+    width: 70%;
+}
+
+.product-container{
+    display: flex;
+}
+
+.product-information{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.product-detail{
+    width: 75%;
+}
+
+.product-remove{
+    width: 10%;
+}
+
+.cart-checkout{
+    width: 30%;
+}
