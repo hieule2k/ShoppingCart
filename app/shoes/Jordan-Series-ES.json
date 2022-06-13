@@ -1,0 +1,39 @@
+{
+    "information": {
+        "id": "Jordan-Series-ES",
+        "name": "Jordan Series ES",
+        "currency": 200,
+        "orderQuantity": 1
+    },
+    "sizes": [
+        "5",
+        "5.5",
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/24ec42dd-14d7-4a69-a643-2f034d6145d4/jordan-series-es-shoes-FDtg9v.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4d6a13b6-cdf4-4f2c-88ca-5510d3d00126/jordan-series-es-shoes-FDtg9v.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/29835f51-a171-4051-872f-e4b8de12de7a/jordan-series-es-shoes-FDtg9v.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/15018053-e3c6-4774-8f1c-955a9edd38f9/jordan-series-es-shoes-FDtg9v.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/d483d183-bdd9-4ec3-a9c3-687dde64f20b/jordan-series-es-shoes-FDtg9v.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/d25f9532-6416-4656-b6d3-8e6b2109a37a/jordan-series-es-shoes-FDtg9v.png"
+    ]
+}

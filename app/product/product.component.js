@@ -4,7 +4,8 @@ angular.module("product").component("product", {
     "$http",
     function productController($http) {
       var self = this;
-      $http.get("/angularApp/app/product.json").then(function (response) {
+      self.order = "age";
+      $http.get("product.json").then(function (response) {
         self.products = response.data;
       });
     },

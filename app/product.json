@@ -1,18 +1,110 @@
 [
     {
-        "name": "SUPERSTAR",
-        "id": "SUPERSTAR"
+        "name": "Nike Air Force 1 '07",
+        "description": "Men's Shoes",
+        "imageUrl": "./IMG/air-force-1-07-shoe-WrLlWX.jpg",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/15bcd4d6-2636-4e9d-8b90-47d556a2cc0a/air-force-1-07-shoe-WrLlWX.png",
+        "id": "Nike-Air-Force-1-'07'",
+        "currency": "5.000.000",
+        "quantityLeft": 3
     },
     {
-        "name": "ozelia",
-        "id": "ozelia"
+        "name": "Nike Dunk High Retro SE",
+        "description": "Men's Shoes",
+        "imageUrl": "./IMG/air-monarch-iv-training-shoe-cc3XbD.jpg",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/2013aa36-3cf6-46a0-ad9a-cd5ff7927a11/air-monarch-iv-training-shoe-cc3XbD.png",
+        "id": "Nike-Dunk-High-Retro-SE",
+        "currency": "6.000.000",
+        "quantityLeft": "3"
     },
     {
-        "name": "NMD_R1",
-        "id": "NMD_R1"
+        "name": "Nike Air Monarch IV",
+        "description": "Men's Shoes",
+        "imageUrl": "./IMG/dunk-high-retro-se-shoes-tXRLdK.jpg",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/433f980c-d56b-43d2-8475-fa917e4f2a7b/dunk-high-retro-se-shoes-tXRLdK.png",
+        "id": "Nike-Air-Monarch-IV",
+        "currency": "7.000.000",
+        "quantityLeft": "3"
     },
     {
-        "name": "OZWEEGO",
-        "id": "OZWEEGO"
+        "name": "Nike Air Force 1 '07 LV8",
+        "description": "Men's Shoes",
+        "imageUrl": "./IMG/air-force-1-07-lv8-shoe-dGlKF3.jpg",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/639b5496-fc3c-4c90-999d-c1b91e055afd/air-force-1-07-lv8-shoe-dGlKF3.png",
+        "id": "Nike-Air-Force-1-'07-LV8",
+        "currency": "5.500.000",
+        "quantityLeft": "3"
+    },
+    {
+        "name": "Nike Air More Uptempo '96",
+        "description": "Men's Shoes",
+        "imageUrl": "./IMG/air-more-uptempo-96-shoes-KwM99n.jpg",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tybaklmqbdz7b3ifmg73/air-more-uptempo-96-shoes-KwM99n.png",
+        "id": "Nike-Air-More-Uptempo-'96",
+        "currency": "4.000.000",
+        "quantityLeft": "3"
+    },
+    {
+        "name": "Nike Air Max 97",
+        "description": "Men's Shoes",
+        "imageUrl": "./IMG/air-max-97-shoe-Ks2tvF.jpg",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/c74b9434-e357-4069-8159-e726ff3a120d/air-max-97-shoe-Ks2tvF.png",
+        "id": "Nike-Air-Max-97",
+        "currency": "3.300.000",
+        "quantityLeft": "3"
+    },
+    {
+        "name": "Nike Blazer Low '77 Jumbo",
+        "description": "Men's Shoes",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e2a045c5-7393-4717-9ddf-b6de12cfe641/blazer-low-77-jumbo-shoes-RGNB3j.png",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f7ab9fec-4ec9-4338-a2a7-97caabdd664c/blazer-low-77-jumbo-shoes-RGNB3j.png",
+        "id": "Nike-Blazer-Low-'77-Jumbo",
+        "currency": "5.000.000",
+        "quantityLeft": "3"
+    },
+    {
+        "name": "Nike Blaze Mid '77 Jumbo",
+        "description": "Men's Shoes",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a39b3392-1672-4364-a4e9-0c948f4cafcf/blazer-mid-77-jumbo-shoes-kWXfC7.png",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/2978c2e1-88dd-469c-b752-02b95ccabcc1/blazer-mid-77-jumbo-shoes-kWXfC7.png",
+        "id": "Nike-Blaze-Mid-'77-Jumbo",
+        "currency": "9.000.000",
+        "quantityLeft": "3"
+    },
+    {
+        "name": "Jordan Series ES",
+        "description": "Men's Shoes",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed523704-ae87-4f5d-8e41-94cd8d54b04d/jordan-series-es-shoes-FDtg9v.png",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/15018053-e3c6-4774-8f1c-955a9edd38f9/jordan-series-es-shoes-FDtg9v.png",
+        "id": "Jordan-Series-ES",
+        "currency": "3.400.000",
+        "quantityLeft": "3"
+    },
+    {
+        "name": "Nike Court Vision Low",
+        "description": "Men's Shoes",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/41df245f-a1e5-4c6a-9c73-bdb0617202f1/court-vision-low-shoes-MRkRPF.png",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/d3062521-595d-4f26-b4b9-876f47201fa5/court-vision-low-shoes-MRkRPF.png",
+        "id": "Nike-Court-Vision-Low",
+        "currency": "7.800.000",
+        "quantityLeft": "3"
+    },
+    {
+        "name": "Air Jordan 4 Retro",
+        "description": "Men's Shoes",
+        "imageUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a03158c1-8969-4e5f-acea-37eef71cf0b7/air-jordan-1-retro-high-og-shoe-PLe8kL.png",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/fca7bbd2-1692-4559-8847-9ae41fa00918/air-jordan-1-retro-high-og-shoe-PLe8kL.png",
+        "id": "Air-Jordan-4-Retro",
+        "currency": "2.400.000",
+        "quantityLeft": "3"
+    },
+    {
+        "name": "LeBron 19",
+        "description": "Men's Shoes",
+        "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cd9c3592-06f5-4fce-9fca-dee750b70ce3/lebron-19-basketball-shoe-5dpw6F.png",
+        "imageUrlAlt": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/8d13b745-5297-4739-bb5b-f2afadb16e55/lebron-19-basketball-shoe-5dpw6F.png",
+        "id": "LeBron-19",
+        "currency": "4.600.000",
+        "quantityLeft": "3"
     }
 ]

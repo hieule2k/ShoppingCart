@@ -1,0 +1,40 @@
+{
+    "information": {
+        "id": "Nike-Air-Monarch-IV",
+        "name": "Nike Air Monarch IV",
+        "currency": 200,
+        "orderQuantity": 1
+    },
+    "sizes": [
+        "5",
+        "5.5",
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2a617295-4b1a-46e1-91e2-6963fd252c59/dunk-high-retro-se-shoes-tXRLdK.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/1af80254-b653-42f8-8702-61b39feca583/dunk-high-retro-se-shoes-tXRLdK.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/9142d4aa-ef07-40b9-bb64-0a057cf8a1a3/dunk-high-retro-se-shoes-tXRLdK.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/433f980c-d56b-43d2-8475-fa917e4f2a7b/dunk-high-retro-se-shoes-tXRLdK.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a7413b75-4958-4807-9161-17b609227c77/dunk-high-retro-se-shoes-tXRLdK.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/8bde2ee0-6f1c-4b38-9c2d-d85a319be1cc/dunk-high-retro-se-shoes-tXRLdK.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/59f0e2d6-2d28-40ac-9b4c-25efa86192a6/dunk-high-retro-se-shoes-tXRLdK.png"
+    ]
+}

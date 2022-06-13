@@ -1,0 +1,39 @@
+{
+    "information": {
+        "id": "Nike-Air-More-Uptempo-'96",
+        "name": "Nike Air More Uptempo '96",
+        "currency": 200,
+        "orderQuantity": 1
+    },
+    "sizes": [
+        "5",
+        "5.5",
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ls18t4crkxjbr3fysf6r/air-more-uptempo-96-shoes-KwM99n.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/jippnslanhjr7xbuzaxi/air-more-uptempo-96-shoes-KwM99n.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/xwibnv9dgeyxt3eodtrv/air-more-uptempo-96-shoes-KwM99n.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tybaklmqbdz7b3ifmg73/air-more-uptempo-96-shoes-KwM99n.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/jiy5f0g9tdclgevzfc6m/air-more-uptempo-96-shoes-KwM99n.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/jzl3iouy2xcvxp71xh7r/air-more-uptempo-96-shoes-KwM99n.png"
+    ]
+}

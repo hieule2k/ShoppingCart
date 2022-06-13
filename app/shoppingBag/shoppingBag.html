@@ -1,0 +1,47 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./shoppingBag/shoppingBag.css">
+
+
+</head>
+
+<body>
+    <h1 ng-if="order.totalProducts != 0"> Your Bag</h1>
+    <h1 ng-if="order.totalProducts == 0" style="text-transform: uppercase;">Your Bag Is Empty</h1>
+    <section id="bag-container">
+        <div class="cart-container">
+            <div>TOTAL({{order.totalProducts}}) <span>${{order.totalAmount}}</span></div>
+
+
+
+            <div ng-repeat="cart in carts" class="product-container">
+                <img ng-src="{{cart.images[0]}}" class="product-image">
+
+                <div class="product-information">
+                    <div class="product-detail">
+                        <div class="product-name">{{cart.information.name}}</div>
+                        <div class="product-size">{{selectedSize}}</div>
+                        <select ng-model="selectedSize">
+                            <option ng-repeat="size in cart.sizes" value="{{size}}">{{size}}</option>
+                        </select>
+                        <div>{{cart.information.orderQuantity}}</div>
+                    </div>
+                    <div class="product-remove">
+                        <i class="fas fa-plus" ng-click="inc($index)"></i>
+                        <i class="fas fa-minus" ng-click="dec($index)"></i>
+                        <i class="fas fa-trash" ng-click="remove($index)"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cart-checkout">
+            <h1 style="text-transform:uppercase">Order Summary</h1>
+            <div>{{order.totalProducts}} items</div>
+            <div>delivery</div>
+            <div>Total: {{order.totalAmount}}</div>
+            <div></div>
+        </div>
+    </section>
+</body>

@@ -1,0 +1,39 @@
+{
+    "information": {
+        "id": "Nike-Court-Vision-Low",
+        "name": "Nike Court Vision Low",
+        "currency": 200,
+        "orderQuantity": 1
+    },
+    "sizes": [
+        "5",
+        "5.5",
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b58a3d32-8190-42ad-9800-4861afbfa35c/court-vision-low-shoe-41zCWb.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/5d5da0ed-be50-4c64-ae68-871c0b9edae6/court-vision-low-shoe-41zCWb.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/fcf463ec-3eed-4e0c-b2ed-87664f0fb310/court-vision-low-shoe-41zCWb.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/3f784b90-eb74-4d0c-aad8-57f3a32999bc/court-vision-low-shoe-41zCWb.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/3f86ae25-8284-42b7-9287-93ee545a7e34/court-vision-low-shoe-41zCWb.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/0ae3e95c-6f03-440b-88f4-9b9bbcb08737/court-vision-low-shoe-41zCWb.png"
+    ]
+}

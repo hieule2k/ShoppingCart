@@ -1,11 +1,37 @@
-<body>
-    <p>product</p>
-    <div class="container">
-        <ul>
-            <li ng-repeat="product in $ctrl.products">
-                <span>{{product.name}}</span>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./product/product.css">
+</head>
 
-            </li>
-        </ul>
+<body>
+    <div class="search">
+        <p>
+            search:
+            <input ng-model="$ctrl.query">
+        </p>
+
+        <p>
+            sort by:
+            <select ng-model="$ctrl.order">
+                <option value="name">Alphbetical</option>
+                <option value="age">Newest</option>
+            </select>
+        </p>
+    </div>
+    <div class="product-container">
+
+        <div ng-repeat="product in $ctrl.products | filter:$ctrl.query | orderBy:$ctrl.order" class="product">
+            <a href="#!/cart/{{product.id}}">
+                <img ng-src="{{product.imageUrl}}" alt="{{product.name}}" class="img-product">
+                <img ng-src="{{product.imageUrlAlt}}" class="img-hover">
+                <div>{{product.name}}</div>
+                <div style="opacity: 0.6;">{{product.description}}</div>
+                <div>Quantity: {{product.quantityLeft}}</div>
+                <div>{{product.currency}} đ</div>
+
+            </a>
+        </div>
     </div>
 </body>

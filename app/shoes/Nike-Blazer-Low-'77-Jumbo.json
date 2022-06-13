@@ -1,0 +1,39 @@
+{
+    "information": {
+        "id": "Nike-Blazer-Low-'77-Jumbo",
+        "name": "Nike Blazer Low '77 Jumbo",
+        "currency": 200,
+        "orderQuantity": 1
+    },
+    "sizes": [
+        "5",
+        "5.5",
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fb8ab515-28b7-4d79-b955-c398c30fe170/blazer-low-77-jumbo-shoes-RGNB3j.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/93fd687d-eeda-44e4-84b3-0a05e84d6e2e/blazer-low-77-jumbo-shoes-RGNB3j.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/0806be0b-eb7c-4459-8ba3-f28eb336ccae/blazer-low-77-jumbo-shoes-RGNB3j.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/eae30138-a786-4180-a296-af4cce380899/blazer-low-77-jumbo-shoes-RGNB3j.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/656503b2-e55b-49fc-a29e-c9bc8a49596c/blazer-low-77-jumbo-shoes-RGNB3j.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/abbb696f-b63c-49cd-92e0-fb9f6b333202/blazer-low-77-jumbo-shoes-RGNB3j.png"
+    ]
+}

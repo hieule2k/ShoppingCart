@@ -1,0 +1,39 @@
+{
+    "information": {
+        "id": "LeBron-19",
+        "name": "LeBron 19",
+        "currency": 200,
+        "orderQuantity": 1
+    },
+    "sizes": [
+        "5",
+        "5.5",
+        "6",
+        "6.5",
+        "7",
+        "7.5",
+        "8",
+        "8.5",
+        "9"
+    ],
+    "headerTopNavbar": [
+        "help",
+        "exchanges & return",
+        "order tracker",
+        "login"
+    ],
+    "mainMenu": [
+        "MEN",
+        "WOMEN",
+        "KIDS",
+        "SALE"
+    ],
+    "images": [
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c8efa5e6-d986-43ad-b6ce-1e090ccb1b8d/lebron-19-basketball-shoe-5dpw6F.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/9b589d21-2df7-4be8-8ce2-5dad49894b69/lebron-19-basketball-shoe-5dpw6F.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/03579508-295f-4492-a836-b42e56cee1bc/lebron-19-basketball-shoe-5dpw6F.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/8d13b745-5297-4739-bb5b-f2afadb16e55/lebron-19-basketball-shoe-5dpw6F.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4a4cb333-6e5e-4851-a11d-d41dc50bf08c/lebron-19-basketball-shoe-5dpw6F.png",
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/aae7dd8e-66e8-47c8-aac2-7e564607e7dd/lebron-19-basketball-shoe-5dpw6F.png"
+    ]
+}
